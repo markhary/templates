@@ -30,9 +30,11 @@ This is how you test
 Use [SemVer](http://semver.org/). Please see [tags on this repository](https://github.com/your/project/tags). 
 
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)<br/>
-[Unlicensed](https://http://unlicense.org)<br/>
 [License](LICENSE.md)
+
+###### Other License Examples
+* [MIT](https://choosealicense.com/licenses/mit/)<br/>
+* [Unlicensed](https://unlicense.org)
 
 ### Acknowledgements
 * Hat tips
