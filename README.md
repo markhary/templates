@@ -24,18 +24,16 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 This is how you test
 
 ### Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
+[Contributing](CONTRIBUTING.md)
 
 ### Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Use [SemVer](http://semver.org/). Please see [tags on this repository](https://github.com/your/project/tags). 
 
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
-[Unlicensed](https://http://unlicense.org) 
+[MIT](https://choosealicense.com/licenses/mit/)<br/>
+[Unlicensed](https://http://unlicense.org)<br/>
 [License](LICENSE.md)
 
-### Acklowledgements
-* Hat tip to anyone whose code was used
+### Acknowledgements
+* Hat tips
 * Inspiration
-* etc
