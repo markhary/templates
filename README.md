@@ -1,6 +1,6 @@
 # Foobar Title
 
-Foobar is a snoodbar for dealing with word pluralization.
+Foobar is an application for dealing with wibbly-wobbly things.
 
 ### Installation
 
@@ -15,27 +15,25 @@ npm install foobar
 ```npm
 require foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+foobar.wibbly(time) # wobbles a bit
+foobar.wobbly(time) # goes back to wibbling
+foobar.singularize(time) # Uh oh
 ```
 
 ### Testing
-This is how you test
+Thou shalt runne Ye Olde CI Platforme with extreme Prejudyce.
 
 ### Contributing
 You are welcome to contribute provided you accept the [Contributor Covenant Code of Conduct](CONTRIBUTING.md).
 
 ### Versioning
-Use [SemVer](http://semver.org/). Please see [tags on this repository](https://github.com/your/project/tags). 
+This project uses [Semantic Versioning 2.0.0](http://semver.org/). Please see [tags on this repository](https://github.com/your/project/tags). 
 
 ### License
-This repository is licensed under [The Unlicense](LICENSE.md)
+This repository is licensed under [The Unlicense](LICENSE.md).
 
 ###### Other License Examples
 * [MIT](https://choosealicense.com/licenses/mit/)<br/>
-* [Unlicensed](https://unlicense.org)
 
 ### Acknowledgements
-* Hat tips
-* Inspiration
+* Hat tips & Inspiration
