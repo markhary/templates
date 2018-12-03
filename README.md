@@ -15,9 +15,9 @@ npm install foobar
 ```npm
 require foobar
 
-foobar.wibbly(time) # wobbles a bit
-foobar.wobbly(time) # goes back to wibbling
-foobar.singularize(time) # Uh oh
+foobar.wibbly(time); # Wobble a bit
+foobar.wobbly(time); # Go back to wibbling
+foobar.singularize(time); # Uh oh
 ```
 
 ### Testing
